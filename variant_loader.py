@@ -1,3 +1,5 @@
+'''Import all mutations into one standardized CSV'''
+
 import os
 import sys
 import glob
