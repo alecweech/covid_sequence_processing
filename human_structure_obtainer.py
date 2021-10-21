@@ -79,5 +79,5 @@ for uniprot_id in human_ids:
 
 structures_df.to_csv('structures_with_5AA_cutoff.csv')
 
-
+soup.get_text
 
